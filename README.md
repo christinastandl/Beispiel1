@@ -1,11 +1,14 @@
 #Beispiel1
 
-1. Warum wir git verwenden 
-*Teamfähig
-*backup
-*zurück zur vorherigen Version
+## Warum wir git verwenden 
+1. Teamfähig
+2. backup
+3. zurück zur vorherigen Version
 
 
-2. nächster Kurs HTML
+## nächster Kurs HTML
 
-3. Kaffeepause
+## Kaffeepause
+
+![Serles](serles.jpg)
+Quelle: [Bild Serles](https://www.stubai.at/fileadmin/_processed_/1/e/csm_sevensummits-serles-xl2_c8a947d58a.jpg)
